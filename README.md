@@ -16,4 +16,4 @@ ENUNCIADOS
     -o valor do aumento;
     -o novo salário, após o aumento.
    
-   5. Leia dois números, faça a soma e apresente caso seja maior que 15.
+5. Leia dois números, faça a soma e apresente caso seja maior que 15.
